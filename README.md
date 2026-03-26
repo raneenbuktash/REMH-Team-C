@@ -3,6 +3,8 @@ Data Analysis Project
 
 ## Supply Chain Order Delay Risk Analysis
 ### _[Project Tagline / Short Description]_
+### Data 
+-- https://www.kaggle.com/datasets/yogape/logistics-operations-database
 
 ---
 
