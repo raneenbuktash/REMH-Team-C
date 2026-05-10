@@ -33,4 +33,16 @@ https://drive.google.com/drive/folders/1DhbwlKKhDG0rbA-l5liRUP10IVFdxG9p?usp=sha
 
 ---
 
+---
+### ERD & schema
+https://miro.com/app/board/uXjVGqfAIpE=/?share_link_id=430180814328
+
+---
+### Cleaned Excel Files
+https://drive.google.com/drive/folders/1SgywXOFErR9skg16xRZ0TLbu4T53AN6R
+
+---
+###
+
+
 <img width="3800" height="3800" alt="image" src="https://github.com/user-attachments/assets/095f1a46-31da-44f9-be37-ae2a289238af" />
